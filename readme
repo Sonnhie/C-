@@ -1,0 +1,160 @@
+# 📌 Programming Daily Tasks Roadmap (10 Minutes Each)
+
+---
+
+### 🔰 Beginner (Day 1 – 30)
+
+**Goal:** Learn syntax, variables, input/output, conditions, and loops.
+
+1. Print `"Hello World"` on the screen.
+2. Print your **name** and **age** on two separate lines.
+3. Store your name in a variable and print `"Hello, [name]!"`.
+4. Store two numbers in variables, add them, and print the result.
+5. Ask the user for their name using `input()` and greet them.
+6. Ask the user for two numbers and print their sum.
+7. Divide two numbers and print the quotient and remainder.
+8. Convert user input from string → integer and add it to another number.
+9. Check if a number entered by the user is **positive** or **negative**.
+10. Check if a number is **even** or **odd**.
+11. Write a program that prints `"Pass"` if a grade is >= 75, else `"Fail"`.
+12. Ask the user for their age and print `"Adult"` if >= 18 else `"Minor"`.
+13. Create a program that prints the **largest of three numbers** entered by the user.
+14. Print numbers from 1 to 10 using a **for loop**.
+15. Print numbers from 1 to 10 using a **while loop**.
+16. Print only **even numbers from 1 to 20** using a loop.
+17. Print only **odd numbers from 1 to 20** using a loop.
+18. Print the **multiplication table of 5**.
+19. Print the multiplication table for a user-entered number.
+20. Ask the user to keep entering numbers until they type `"stop"`.
+21. Use a loop with `break`: stop the loop if the user enters `0`.
+22. Use a loop with `continue`: skip printing the number `5` when looping 1–10.
+23. Print a triangle of stars (`*`) with 5 rows.
+24. Print a square of stars (5×5).
+25. Print the factorial of a number entered by the user.
+26. Reverse a number (e.g., input `123` → output `321`).
+27. Calculate the sum of numbers from 1 to 100 using a loop.
+28. Print the Fibonacci sequence up to the 10th term.
+29. Write a simple calculator that supports +, -, \*, /.
+30. Write a program that asks for a password and checks if it matches `"12345"`.
+
+---
+
+### 📊 Data Structures (Day 31 – 50)
+
+**Goal:** Work with lists, dictionaries, sets, and strings.
+
+31. Create a list of 5 fruits and print them.
+32. Add `"Mango"` to the list and remove `"Apple"`.
+33. Print the **first** and **last** elements of a list.
+34. Loop through a list and print all items one by one.
+35. Find the **largest number** in a list `[3, 7, 2, 9, 5]`.
+36. Find the **smallest number** in the same list.
+37. Sort the list `[3, 7, 2, 9, 5]` without using built-in sort.
+38. Count how many times `"a"` appears in `"banana"`.
+39. Ask the user to enter a sentence, then print the number of words.
+40. Create a dictionary with 3 people’s names as keys and their ages as values.
+41. Add a new person to the dictionary.
+42. Remove one person from the dictionary.
+43. Print all keys in the dictionary.
+44. Print all values in the dictionary.
+45. Loop through the dictionary and print `"[name] is [age] years old"`.
+46. Create a set `{1,2,3}` and another `{3,4,5}`. Print their union.
+47. Print their intersection.
+48. Create a list of numbers and remove duplicates using a set.
+49. Slice the string `"programming"` to print only `"gram"`.
+50. Reverse a string using slicing.
+
+---
+
+### ⚙️ Functions & OOP (Day 51 – 70)
+
+**Goal:** Write reusable code and learn classes/objects.
+
+51. Write a function that prints `"Hello from a function!"`.
+52. Write a function that takes a name and prints `"Hello [name]"`.
+53. Write a function that takes two numbers and returns their sum.
+54. Write a function with a default parameter (e.g., greet `"Guest"` if no name is passed).
+55. Write a function that calculates the square of a number.
+56. Write a recursive function that finds factorial of a number.
+57. Create a class `Car` with attributes `brand` and `model`.
+58. Add a method `drive()` to the class that prints `"Car is driving"`.
+59. Create two objects of `Car` and call their methods.
+60. Create a parent class `Animal` with method `sound()`, then create child class `Dog` that overrides it.
+61. Create a class `BankAccount` with `deposit()` and `withdraw()` methods.
+62. Add a balance check to `withdraw()`.
+63. Create a class `Student` with attributes `name` and `grades` (list).
+64. Add a method to calculate average grade.
+65. Write a program with multiple classes interacting (e.g., `Library` and `Book`).
+66. Write a program that keeps track of all created objects using a class variable.
+67. Write a class with private attributes and getter/setter methods.
+68. Demonstrate **polymorphism** with two classes having the same method name.
+69. Write a program where a function takes another function as an argument.
+70. Write a function that returns another function (closure).
+
+---
+
+### 🔑 Algorithms & Problem Solving (Day 71 – 90)
+
+**Goal:** Logic, sorting, searching, problem-solving.
+
+71. Write a program to reverse a string without slicing.
+72. Check if a word is a palindrome.
+73. Count vowels in a string.
+74. Find factorial using a loop.
+75. Generate Fibonacci numbers up to `n`.
+76. Implement Bubble Sort.
+77. Implement Selection Sort.
+78. Implement Insertion Sort.
+79. Implement Binary Search.
+80. Find the second largest number in a list.
+81. Remove duplicates from a list without using `set`.
+82. Check if a number is prime.
+83. Generate all primes up to 100.
+84. Find the greatest common divisor (GCD).
+85. Find the least common multiple (LCM).
+86. Check if two strings are anagrams.
+87. Find all substrings of a given string.
+88. Count frequency of each word in a sentence.
+89. Find the longest word in a sentence.
+90. Write a password strength checker (length, numbers, symbols).
+
+---
+
+### 🏗️ Small Projects (Day 91 – 120)
+
+**Goal:** Apply everything you learned into mini-programs.
+
+91. Build a **To-Do List** (add/remove/show tasks).
+92. Build a **Contact Book** (dictionary of names & numbers).
+93. Build a **Simple Calculator App** (loop until exit).
+94. Build a **Rock-Paper-Scissors Game**.
+95. Build a **Number Guessing Game**.
+96. Build a **Quiz Game** with at least 5 questions.
+97. Build a **Unit Converter** (km ↔ miles, °C ↔ °F).
+98. Build a **Tip Calculator** (bill + percentage).
+99. Build a **Basic Login System** (check username/password).
+100.  Build a **Password Generator** with random letters/numbers.
+101.  Build a program to **log transactions** in a text file.
+102.  Build an **Expense Tracker** that saves data to file.
+103.  Build a **Mini Inventory System** (add/remove/show stock).
+104.  Build a **Note-Taking App** (save notes to file).
+105.  Build a **Student Grade Calculator** (average, pass/fail).
+106.  Build a **Basic Banking System** (deposit, withdraw, balance).
+107.  Build a **Tic-Tac-Toe Game** (text-based).
+108.  Build a **Simple Chatbot** using if/else responses.
+109.  Build a **Dice Rolling Simulator**.
+110.  Build a **Countdown Timer**.
+111.  Build a **Stopwatch**.
+112.  Build a program that **scrambles words** in a sentence.
+113.  Build a **Simple Alarm Clock**.
+114.  Build a program that **encrypts and decrypts text** (Caesar Cipher).
+115.  Build a **File Organizer** (sort files by extension).
+116.  Build a **Weather App** (fake data, not API yet).
+117.  Build a **Simple Library Management System**.
+118.  Build a **Flashcard Quiz App**.
+119.  Build a **Hangman Game**.
+120.  Build a **Simple Calendar App** (just text-based).
+
+---
+
+👉 That’s **120 tasks** from **beginner to advanced**. Each one is small enough to finish in ~10 minutes daily but builds your skills steadily.
