@@ -13,8 +13,8 @@
 5. Ask the user for their name using `input()` and greet them. -- Done
 6. Ask the user for two numbers and print their sum. -- Done
 7. Divide two numbers and print the quotient and remainder. -- Done
-8. Convert user input from string → integer and add it to another number.
-9. Check if a number entered by the user is **positive** or **negative**.
+8. Convert user input from string → integer and add it to another number. - Done
+9. Check if a number entered by the user is **positive** or **negative**. -Done
 10. Check if a number is **even** or **odd**.
 11. Write a program that prints `"Pass"` if a grade is >= 75, else `"Fail"`.
 12. Ask the user for their age and print `"Adult"` if >= 18 else `"Minor"`.
