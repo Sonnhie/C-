@@ -6,13 +6,13 @@
 
 **Goal:** Learn syntax, variables, input/output, conditions, and loops.
 
-1. Print `"Hello World"` on the screen.
-2. Print your **name** and **age** on two separate lines.
-3. Store your name in a variable and print `"Hello, [name]!"`.
-4. Store two numbers in variables, add them, and print the result.
-5. Ask the user for their name using `input()` and greet them.
-6. Ask the user for two numbers and print their sum.
-7. Divide two numbers and print the quotient and remainder.
+1. Print `"Hello World"` on the screen. -- Done
+2. Print your **name** and **age** on two separate lines. -- Done
+3. Store your name in a variable and print `"Hello, [name]!"`. -- Done
+4. Store two numbers in variables, add them, and print the result. -- Done
+5. Ask the user for their name using `input()` and greet them. -- Done
+6. Ask the user for two numbers and print their sum. -- Done
+7. Divide two numbers and print the quotient and remainder. -- Done
 8. Convert user input from string → integer and add it to another number.
 9. Check if a number entered by the user is **positive** or **negative**.
 10. Check if a number is **even** or **odd**.
